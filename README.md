@@ -24,4 +24,4 @@ which content i learned from react-native that I created this practice blog appl
 # Editing in a Reducer
 # Navigating Backwards
 
-Thank You !
+Thank You .
